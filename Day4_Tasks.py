@@ -153,7 +153,6 @@ print(b2 in list2)
 print(b2 not in list2)
 
 #Identity Operators
-
 c1=20
 c2=20
 
