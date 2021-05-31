@@ -94,7 +94,6 @@ print('Tuple[2:5] :',tuple[2:5])
 #4th Onwards Value in tuple
 print('Tuple[4:] :',tuple[4:])
 
-
 #Task11
 
 a={1:'Harsh',2:'Kakaroth','Vegeta':3}
